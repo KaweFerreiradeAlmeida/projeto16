@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "project-template-C16-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
